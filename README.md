@@ -1,5 +1,5 @@
 # ES6
- Example of Javascript ES6 features presented in the course *GoStack Starter* by *Rocketseat*.
+ Example of Javascript ES6 new features presented in the course *GoStack Starter* by *Rocketseat*.
 
 ## What I Learned 
 - Package management with Yarn;
@@ -12,3 +12,4 @@
 - Array operations (map, reduce, filter, find);
 - Arrow functions;
 - Object destructuring;
+- Rest and Spread operators in functions, arrays and objects;
