@@ -10,3 +10,4 @@
 - Scope of variables (var, const, let);
 - Mutation in const variables;
 - Array operations (map, reduce, filter, find);
+- Arrow functions;
