@@ -13,3 +13,5 @@
 - Arrow functions;
 - Object destructuring;
 - Rest and Spread operators in functions, arrays and objects;
+- Template literals
+- Object short syntax;
