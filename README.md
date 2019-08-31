@@ -11,3 +11,4 @@
 - Mutation in const variables;
 - Array operations (map, reduce, filter, find);
 - Arrow functions;
+- Object destructuring;
