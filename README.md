@@ -15,3 +15,5 @@
 - Rest and Spread operators in functions, arrays and objects;
 - Template literals
 - Object short syntax;
+- Configure Webapack;
+- Import e export modules;
