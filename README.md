@@ -18,3 +18,4 @@
 - Configure Webapack;
 - Import e export modules;
 - Async await;
+- Axios; 
