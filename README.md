@@ -1,5 +1,5 @@
 # ES6
- Example of Javascript ES6 new features presented in the course *GoStack Starter* by *Rocketseat*.
+ An application to search an list GitHub repositories, built following  the course *GoStack Starter* by *Rocketseat*.
 
 ## What I Learned 
 - Package management with Yarn;
